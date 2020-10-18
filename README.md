@@ -17,7 +17,7 @@ Mata Kuliah	: Bahasa Pemrograman
 <br><br>
 ### Check Versi git kalian
 <br>
--(git --version)
+####git --version
 <br>
 ![2cekversigit.PNG](picture/2cekversigit.PNG)
 <br><br>
