@@ -16,7 +16,9 @@ Mata Kuliah	: Bahasa Pemrograman
 ![1rename.PNG](picture/1rename.PNG)
 <br><br>
 ### Check Versi git kalian
-<br><br>
+<br>
+-(git --version)
+<br>
 ![2cekversigit.PNG](picture/2cekversigit.PNG)
 <br><br>
 
