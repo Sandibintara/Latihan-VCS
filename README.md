@@ -85,12 +85,12 @@ Mata Kuliah	: Bahasa Pemrograman
 * lalu lanjutkan denga perintah commit
 > git commit -m "update"
 
-![lalu git commit 14.PNG](picture/lalu git commit 14.PNG)
+![gitcommit.PNG](picture/gitcommit.PNG)
 
 * lalu lanjutkan dengan perintah Push
 > git push
 
-![15gitpush.png](pictiure/15gitpush.png)
+![15gitpush.PNG](pictiure/15gitpush.PNG)
 
 `hasil push`
 
