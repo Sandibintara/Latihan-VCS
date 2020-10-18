@@ -13,6 +13,6 @@ Mata Kuliah	: Bahasa Pemrograman
 ## Langkah-langkah Penggunaan git
 download git sesuai dengan spesifikasi laptop atau computer anda: [click here](https://git-scm.com/)
 <br>
-![Latihan-VCS/picture](1rename.PNG)
+![1rename.PNG](picture/1rename.PNG)
 
 
