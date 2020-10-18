@@ -56,7 +56,7 @@ Mata Kuliah	: Bahasa Pemrograman
 
 * buka git bash di file explorer yang sudah di siapkan untuk membuat project baru
 
-![10gitbashfile.PNG](picture/10gitbashfile.PNG)
+![10gitbashfile.png](picture/10gitbashfile.png)
 
 * lalu clone
 > git clone "link"
