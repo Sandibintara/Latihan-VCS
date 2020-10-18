@@ -68,9 +68,41 @@ Mata Kuliah	: Bahasa Pemrograman
 ![11cloneurl.PNG](picture/11cloneurl.PNG)
 
 ### 6. Cd file
-> Cd nama file
+> cd nama file
 
 ![12cdfolder.PNG](picture/12cdfolder.PNG)
+
+### 7. Edit file READDME.md buka dengan notepad
+* Edit file sesuai project kalian lalu save
+
+![13editfile.PNG](picture/13editfile.PNG)
+
+* buka terminal bash lalu jalankan perintah
+> git add .
+
+![14gitadd.PNG](picture/14gitadd.PNG)
+
+* lalu lanjutkan denga perintah commit
+> git commit -m "update"
+
+![lalu git commit 14.PNG](picture/lalu git commit 14.PNG)
+
+* lalu lanjutkan dengan perintah Push
+> git push
+
+![15gitpush.PNG](pictiure/15gitpush.PNG)
+
+`hasil push`
+
+![16hasilpush.PNG](picture/16hasilpush.PNG)
+
+* lakukan git add , commit, dan push sampai selesai
+
+#Alhamdulillah Terima Kasih
+
+
+
+
 
 
 
