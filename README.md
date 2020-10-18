@@ -10,7 +10,7 @@ Mata Kuliah	: Bahasa Pemrograman
 
 --------------------------------------------------------------------------------------
 ## Assalamualaikum Wr Wb
-======================================================================================
+--------------------------------------------------------------------------------------
 ## Langkah-langkah Penggunaan git
 
 ### 1. Download git sesuai dengan spesifikasi laptop atau computer anda [*click here](https://git-scm.com/) lalu instal.
@@ -101,8 +101,7 @@ Mata Kuliah	: Bahasa Pemrograman
 * lakukan git add , commit, dan push sampai selesai
 
 #Alhamdulillah Terima Kasih
-
-======================================================================================
+--------------------------------------------------------------------------------------
 Wassalamualaikum Wr. Wb
 --------------------------------------------------------------------------------------
 
