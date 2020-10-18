@@ -24,6 +24,7 @@ Mata Kuliah	: Bahasa Pemrograman
 ### 3. Masukan Author pembuat git (anda) dengan langkah berikut :
 
 > git config --global user.name "Nama Anda"
+
 > git config --global user.email "Email Anda"
 
 ![3masukanauthor.PNG](picture/3masukanauthor.PNG)
