@@ -11,8 +11,14 @@ Mata Kuliah	: Bahasa Pemrograman
 --------------------------------------------------------------------------------------
 
 ## Langkah-langkah Penggunaan git
-download git sesuai dengan spesifikasi laptop atau computer anda: [click here](https://git-scm.com/)
-<br>
+### Download git sesuai dengan spesifikasi laptop atau computer anda [*click here](https://git-scm.com/) lalu instal
+<br><br>
 ![1rename.PNG](picture/1rename.PNG)
+<br><br>
+### Check Versi git kalian
+<br><br>
+![2cekversigit.PNG](picture/2cekversigit.PNG)
+<br><br>
+
 
 
