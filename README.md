@@ -9,8 +9,10 @@ Nim		: 310210039
 Mata Kuliah	: Bahasa Pemrograman
 
 --------------------------------------------------------------------------------------
-
+## Assalamualaikum Wr Wb
+======================================================================================
 ## Langkah-langkah Penggunaan git
+
 ### 1. Download git sesuai dengan spesifikasi laptop atau computer anda [*click here](https://git-scm.com/) lalu instal.
 
 ![1rename.PNG](picture/1rename.PNG)
@@ -100,8 +102,9 @@ Mata Kuliah	: Bahasa Pemrograman
 
 #Alhamdulillah Terima Kasih
 
-
-
+======================================================================================
+Wassalamualaikum Wr. Wb
+--------------------------------------------------------------------------------------
 
 
 
