@@ -14,17 +14,17 @@ Mata Kuliah	: Bahasa Pemrograman
 ## Langkah-langkah Penggunaan git
 
 ### 1. Download git sesuai dengan spesifikasi laptop atau computer anda [*click here](https://git-scm.com/) lalu instal.
-
+---
 ![1rename.PNG](picture/1rename.PNG)
 
 ### 2. Check Versi git kalian dengan langkah berikut :
-
+---
  > git --version
 
 ![2cekversigit.PNG](picture/2cekversigit.PNG)
 
 ### 3. Masukan Author pembuat git (anda) dengan langkah berikut :
-
+---
 > git config --global user.name "Nama Anda"
 
 > git config --global user.email "Email Anda"
@@ -36,6 +36,7 @@ Mata Kuliah	: Bahasa Pemrograman
 ![4hasilmengisiauthor.PNG](picture/4hasilmengisiauthor.PNG)
 
 ### 4. Membuat respository di github [*click here](github.com)
+---
 *NB. Buatlah account github terlebih dahulu!
 
 * Jika sudah login klik pojok kanan atas
@@ -55,7 +56,7 @@ Mata Kuliah	: Bahasa Pemrograman
 ![8hasilrepository.PNG](picture/8hasilrepository.PNG)
 
 ### 5. Clone Repository ke dalam folder yang sudah di buat di file Explorer and
-
+---
 * Copy link repository yang telah di buat
 
 ![9coppylinkrepository.PNG](picture/9coppylinkrepository.PNG)
@@ -70,11 +71,13 @@ Mata Kuliah	: Bahasa Pemrograman
 ![11cloneurl.PNG](picture/11cloneurl.PNG)
 
 ### 6. Cd file
+---
 > cd nama file
 
 ![12cdfolder.PNG](picture/12cdfolder.PNG)
 
 ### 7. Edit file READDME.md buka dengan notepad
+---
 * Edit file sesuai project kalian lalu save
 
 ![13editfile.PNG](picture/13editfile.PNG)
@@ -100,7 +103,7 @@ Mata Kuliah	: Bahasa Pemrograman
 
 * lakukan git add , commit, dan push sampai selesai
 
-#Alhamdulillah Terima Kasih
+## Alhamdulillah Terima Kasih
 --------------------------------------------------------------------------------------
 Wassalamualaikum Wr. Wb
 --------------------------------------------------------------------------------------
