@@ -28,7 +28,7 @@ Mata Kuliah	: Bahasa Pemrograman
 ![4hasilmengisiauthor.PNG](picture/4hasilmengisiauthor.PNG)
 <br><br>
 ### 4. Membuat respository di github [*click here](github.com)
-<br><br>
+<br>
 * NB. Buatlah account github terlebih dahulu!
 <br><br>
 ![5membuatrepository.PNG](picture/5membuatrepository.PNG)
