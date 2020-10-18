@@ -90,7 +90,7 @@ Mata Kuliah	: Bahasa Pemrograman
 * lalu lanjutkan dengan perintah Push
 > git push
 
-![15gitpush.PNG](pictiure/15gitpush.PNG)
+![15gitpush.png](pictiure/15gitpush.png)
 
 `hasil push`
 
