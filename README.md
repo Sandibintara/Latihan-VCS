@@ -12,45 +12,53 @@ Mata Kuliah	: Bahasa Pemrograman
 
 ## Langkah-langkah Penggunaan git
 ### 1. Download git sesuai dengan spesifikasi laptop atau computer anda [*click here](https://git-scm.com/) lalu instal.
-<br><br>
+
 ![1rename.PNG](picture/1rename.PNG)
-<br><br>
+
 ### 2. Check Versi git kalian dengan langkah berikut :
-<br><br>
+'$ git --version
+
 ![2cekversigit.PNG](picture/2cekversigit.PNG)
-<br><br>
+
 ### 3. Masukan Author pembuat git (anda) dengan langkah berikut :
-<br><br>
+
 ![3masukanauthor.PNG](picture/3masukanauthor.PNG)
-<br><br>
+
 * hasil sebagai berikut :
-<br><br>
+
 ![4hasilmengisiauthor.PNG](picture/4hasilmengisiauthor.PNG)
-<br><br>
+
 ### 4. Membuat respository di github [*click here](github.com)
-<br>
-* NB. Buatlah account github terlebih dahulu!
-<br><br>
+*NB. Buatlah account github terlebih dahulu!
+
+'$ Jika sudah login klik pojok kanan atas 
+
 ![5membuatrepository.PNG](picture/5membuatrepository.PNG)
-<br><br>
+
+'$ isi semua form sesuai project yang akan anda buat
+
 ![6createpository.PNG](picture/6createpository.PNG)
-<br><br>
+
+'$ lalu click create!
+
 ![7create.PNG](picture/7create.PNG)
-<br><br>
-hasil Repository :
-<br><br>
+
+'$ hasil Repository :
+
 ![8hasilrepository.PNG](picture/8hasilrepository.PNG)
-<br><br>
+
 ### 5. Clone Repository ke dalam folder yang sudah di buat di file Explorer and
-<br><br>
-* Copy link repository yang telah di buat
-<br><br>
+
+'$ Copy link repository yang telah di buat
+
 ![9coppylinkrepository.PNG](picture/9coppylinkrepository.PNG)
-<br><br>
-*buka git bash di file explorer yang sudah di siapkan untuk membuat project baru
-<br><br>
+
+'$ buka git bash di file explorer yang sudah di siapkan untuk membuat project baru
+
 ![10gitbashfile.PNG](picture/10gitbashfile.PNG)
-<br><br>
+
+
+
 
 
 
