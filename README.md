@@ -17,7 +17,7 @@ Mata Kuliah	: Bahasa Pemrograman
 
 ### 2. Check Versi git kalian dengan langkah berikut :
 
- `git --version`
+ > git --version
 
 ![2cekversigit.PNG](picture/2cekversigit.PNG)
 
@@ -32,15 +32,15 @@ Mata Kuliah	: Bahasa Pemrograman
 ### 4. Membuat respository di github [*click here](github.com)
 *NB. Buatlah account github terlebih dahulu!
 
-`Jika sudah login klik pojok kanan atas `
+* Jika sudah login klik pojok kanan atas
 
 ![5membuatrepository.PNG](picture/5membuatrepository.PNG)
 
-`isi semua form sesuai project yang akan anda buat`
+* isi semua form sesuai project yang akan anda buat
 
 ![6createpository.PNG](picture/6createpository.PNG)
 
-`lalu click create!`
+* lalu click create!
 
 ![7create.PNG](picture/7create.PNG)
 
@@ -50,15 +50,26 @@ Mata Kuliah	: Bahasa Pemrograman
 
 ### 5. Clone Repository ke dalam folder yang sudah di buat di file Explorer and
 
-`Copy link repository yang telah di buat`
+* Copy link repository yang telah di buat
 
 ![9coppylinkrepository.PNG](picture/9coppylinkrepository.PNG)
 
-`buka git bash di file explorer yang sudah di siapkan untuk membuat project baru`
+* buka git bash di file explorer yang sudah di siapkan untuk membuat project baru
 
 ![10gitbashfile.PNG](picture/10gitbashfile.PNG)
 
-end.
+* lalu clone
+> git clone "link"
+
+![11cloneurl.PNG](picture/11cloneurl.PNG)
+
+### 6. Cd file
+> Cd nama file
+
+![12cdfolder.PNG](picture/12cdfolder.PNG)
+
+
+
 
 
 
